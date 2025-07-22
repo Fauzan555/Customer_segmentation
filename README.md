@@ -1,4 +1,4 @@
-** Customer Segmentation Project: Detailed Analysis.
+** Customer Segmentation Project: Detailed Analysis**.
 
 *Overview:
 
